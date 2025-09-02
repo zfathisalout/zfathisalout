@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zfathisalout
+- 👋 Hi
 - 👀 I’m interested in almost everything (polymath attitude 🤟🏻)
 - 🌱 I’m currently learning to code with LLMs
 - 💞️ I’m looking to collaborate on ... (let me learn a bit first before messing up with your code 😹)
